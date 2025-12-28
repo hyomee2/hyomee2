@@ -1,7 +1,7 @@
 
 <br>
   
-![header](https://capsule-render.vercel.app/api?type=rect&text=Hyoungmi%20Kwon&fontAlign=50&fontAlignY=35&fontSize=40&desc=A%20developer%20who%20loves%20challenges&descAlignY=70&descAlign=50&theme=radical&height=160)
+![header](https://capsule-render.vercel.app/api?type=rect&text=Hyoungmi%20Kwon&fontAlign=50&fontAlignY=35&fontSize=40&desc=A%20developer%20who%20loves%20challenges%20🐼&descAlignY=70&descAlign=50&theme=radical&height=160)
 
 <br>
 
