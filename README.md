@@ -27,11 +27,12 @@
 
   <h3>Infra</h3>
     
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://camo.githubusercontent.com/8339f589ef8df73136107abf0497576d32738d46ef95e71139a455c4c9ee72d5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d2532333234393645442e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/></a>
     
   <h3>Frontend</h3>
   <a href="" target="_blank"><img src="https://camo.githubusercontent.com/94cf51d8aea7951c4ec0aa56c29c083a6ed3ffa31b1245e24db93e6db6fd7d43/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c2d4533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"/></a>
