@@ -24,19 +24,19 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/></a>
-    
-  <h3>Frontend</h3>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/></a>
-  
+
   <h3>Infra</h3>
     
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://camo.githubusercontent.com/8339f589ef8df73136107abf0497576d32738d46ef95e71139a455c4c9ee72d5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d2532333234393645442e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465"/></a>
+    
+  <h3>Frontend</h3>
+  <a href="" target="_blank"><img src="https://camo.githubusercontent.com/94cf51d8aea7951c4ec0aa56c29c083a6ed3ffa31b1245e24db93e6db6fd7d43/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c2d4533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/></a>
     
   <h3>Tool</h3>
   <a href="" target="_blank"><img src="https://camo.githubusercontent.com/4ab348c25c5cc6898d6c6c15bb64c916de24a8b652c9f28ee6e8b9bd00b7b44a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465"/></a>
