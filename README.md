@@ -42,6 +42,7 @@
   <a href="" target="_blank"><img src="https://camo.githubusercontent.com/4ab348c25c5cc6898d6c6c15bb64c916de24a8b652c9f28ee6e8b9bd00b7b44a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465"/></a>
   <a href="" target="_blank"><img src="https://camo.githubusercontent.com/21010f1ffe5767c1f0372b84109dd212e9640a708f9fd4b6e8cbc4ec82a8b4ad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333138313731372e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465"/></a>
   <a href="" target="_blank"><img src="https://camo.githubusercontent.com/5ddadc925145b882086605f79c38ef11e18051c034f377476dbc1f52a164ba86/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e74656c6c696a2d3230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d696e74656c6c696a69646561266c6f676f436f6c6f723d7768697465"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=Jupyter"/></a>
   
@@ -49,6 +50,8 @@
   <a href="" target="_blank"><img src="https://camo.githubusercontent.com/6374880005ba159f6467727fd76201e7c22b486d0aab2019431d51fae7d640ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6669676d612d2532334632344531452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white"/></a>
 
+  <br>
+  
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=stella1015)](https://solved.ac/stella1015/)
 </div>
 
