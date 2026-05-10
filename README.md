@@ -5,11 +5,6 @@
 
 <br>
 
-## 🎓 Education
-- Sungshin Women's University (Mar 2021 - Feb 2026) (Expected Graduation: Aug 2026)
-  - Major: **Computer Engineering**
-  - Double Major: **Big Data and Artificial Intelligence**
-
 ## ✨ Tech Stack
 <div align="center">
   <h3>Backend</h3>
